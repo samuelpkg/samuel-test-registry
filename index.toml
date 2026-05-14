@@ -56,8 +56,8 @@ kind = "skill"
 [[plugins]]
 name = "samuel-go-guide-wasm"
 repo = "github.com/samuelpkg/samuel-go-guide-wasm"
-latest = "0.1.0"
-versions = ["0.1.0"]
+latest = "0.1.1"
+versions = ["0.1.0", "0.1.1"]
 description = "Reference WASM plugin for PRD 0009 live-tier coverage: TinyGo port of go-guide that exposes a `lint` export. Capability-locked, cosign-signed."
 categories = ["test", "language"]
 tags = ["fixture", "samuel-e2e-live", "wasm", "tinygo", "reference"]
